@@ -1,0 +1,22 @@
+body{height :100%;width: 100%; padding: 0px; height: 0px;}
+html{height :100%;width: 100%; }
+#header{
+	height: 20vh;
+	background-color: #367ABD}
+
+a:hover { text-decoration: none;}
+
+#header h1 {text-align: center; color: #E7E7DE}
+#page{height: 80vh;}
+#navigation{
+
+    
+    padding: 0px;
+
+}
+
+h3{    display: inline-block; }
+#content{
+    height: 100%;
+	background-color: #ffffff
+}
